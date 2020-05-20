@@ -13,6 +13,7 @@ Program that displays the distance between two points in the program window.
     <td><img src="/img/points-action3.PNG"></td>
   </tr>
   <tr>
-    <img src="/img/points-action-full-screen.PNG">
+    <td><img src="/img/points-action-full-screen.PNG"></td>
+    
   </tr>
 </table>
